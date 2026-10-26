@@ -1,0 +1,20 @@
+# Cargo Build Files
+/target/
+
+# rustfmt Backups
+*.rs.bk
+
+# Internal compiler error reports
+rustc-ice-*.txt
+
+# Debugging Information in Windows
+*.pdb
+
+# Local Environment Variables
+.env
+.env.*
+!.env.example
+
+# Vim/Neovim Temporary Files
+*.swp
+*.swo
